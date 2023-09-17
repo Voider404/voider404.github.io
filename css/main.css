@@ -4432,6 +4432,11 @@ a.post-header-author:hover {
     height: 32px;
     image-rendering: -webkit-optimize-contrast; }
 
+.m-item-flag {
+    width: 94px;
+    height: 62px;
+    image-rendering: -webkit-optimize-contrast; }
+
 .m-item-logo.mod-right {
   margin-left: 0;
   margin-right: 10px; }
