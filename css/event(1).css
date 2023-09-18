@@ -1,0 +1,69 @@
+@media (max-width: 930px) {
+  .events-container {
+    display: block;
+    margin: 0; }
+
+  .events-container-col {
+    margin: 0;
+    width: 100%; }
+
+  .wf-label.mod-completed {
+    margin-top: 30px; } }
+@media (max-width: 720px) {
+  .world-rankings-container {
+    margin: 0 -5px; }
+
+  .world-rankings-col {
+    width: calc(50% - 10px);
+    margin: 0 5px;
+    margin-bottom: 15px; }
+
+  .wf-tmp-h .normal {
+    display: none; }
+  .wf-tmp-h .small {
+    display: block; }
+
+  .wf-nav-item-title .normal {
+    display: none; }
+  .wf-nav-item-title .small {
+    display: block; }
+
+  .filter-container {
+    justify-content: space-between; }
+
+  .wf-label:not(.mod-world) {
+    display: none; } }
+@media (max-width: 540px) {
+  .wf-label {
+    margin-bottom: 2px;
+    padding-left: 15px; }
+
+  .event-item-inner {
+    padding-left: 15px;
+    padding-right: 3px; }
+
+  .event-item-title {
+    font-size: 12px;
+    margin-bottom: 10px; }
+
+  .event-item {
+    font-size: 11px; }
+
+  .event-item-desc-item-label {
+    font-size: 9px; }
+
+  .event-item-thumb {
+    height: 72px;
+    width: 72px; } }
+@media (max-width: 405px) {
+  .event-item-desc-item.mod-location {
+    display: none; }
+
+  .event-item-desc-item {
+    width: calc(33%); }
+
+  .event-item-desc-item.mod-dates {
+    width: calc(33% + 15px); }
+
+  .event-item-desc-item.mod-prize {
+    text-align: right; } }
