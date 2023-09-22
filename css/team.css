@@ -19,46 +19,6 @@
 .mod-bg-purple, .mod-bg-after-purple:after {
   background: #7169c9 !important; }
 
-.mod-bg-striped_purple, .mod-bg-after-striped_purple:after {
-  background: repeating-linear-gradient(-45deg, #958fd6 -2px, #958fd6 4px, #3c31b4 4px, #3c31b4 8px) !important; }
-
-.mod-bg-striped_redyellow, .mod-bg-after-striped_redyellow:after {
-  background: repeating-linear-gradient(-45deg, #da4444 0px, #da4444 6px, #f4d35d 6px, #f4d35d 12px) !important; }
-
-/*
-.mod-bg-orange, .mod-bg-after-orange:after {
-	//background: $color-event-blue !important;
-	background: repeating-linear-gradient(
-		-45deg,
-		hsl(0, 76%, 53%) 0px,
-		hsl(0, 76%, 53%) 6px,
-		#0F1722 6px,
-		#0F1722 12px
-	) !important;
-}*/
-/*
-
-.mod-bg-blue, .mod-bg-after-blue:after {
-	//background: $color-event-blue !important;
-	background: repeating-linear-gradient(
-		0deg,
-		hsl(197,50%,58%),
-		hsl(197,50%,58%) 10px,
-		hsl(197,50%,88%) 10px,
-		hsl(197,50%,88%) 20px
-	) !important;
-}
-.mod-bg-purple, .mod-bg-after-purple:after {
-
-	//background: $color-event-purple !important;
-	background: repeating-linear-gradient(
-		0deg,
-		hsl(247,50%,58%),
-		hsl(247,50%,58%) 8px,
-		hsl(247,50%,78%) 8px,
-		hsl(247,50%,78%) 16px
-	) !important;
-}*/
 .rm-item {
   height: 58px; }
 
@@ -654,7 +614,6 @@ td {
 .team-roster-item-img {
   width: 52px;
   height: 52px;
-  background: #ddd;
   border-radius: 3px;
   overflow: hidden; }
 
