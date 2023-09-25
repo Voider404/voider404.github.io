@@ -1,11 +1,40 @@
 TODO list:
 
 Main Page
-
+---------------------------------------
+Schedule
+---------------------------------------
 Events:
-6WC1 (Quali + Playoff)
-6WC2 (Quali + Groups + Playoff)
-6WC3 (Quali + Groups + Playoff)
+
+6WC1:
+Qualifiers Page
+Playoff Page
+
+6WC2:
+Qualifiers Page
+Group A Page
+Group B Page
+Group C Page
+Group D Page
+Group E Page
+Group F Page
+Group G Page
+Group H Page
+Playoff Page
+
+6WC3:
+Qualifiers Page
+Group A Page
+Group B Page
+Group C Page
+Group D Page
+Group E Page
+Group F Page
+Group G Page
+Group H Page
+Playoff Page
+
+---------------------------------------
 
 Teams:
 Algeria
