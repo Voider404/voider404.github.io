@@ -520,9 +520,10 @@ i.mod-hidden {
   background: rgba(0, 0, 0, 0.3); }
 
 .event-teams-container {
-  display: flex;
-  flex-wrap: wrap;
-  margin: 0 -4px; }
+    display: flex;
+    flex-wrap: no-wrap;
+    margin: 0 -4px;
+}
 
 .event-team {
   width: calc(25% - 8px);
@@ -543,17 +544,18 @@ i.mod-hidden {
   opacity: .05; }
 
 a.event-team-name {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  font-weight: 700;
-  color: #0582b8;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 42px;
-  flex: 0 0 42px;
-  border-bottom: 1px solid #d4d4d4;
-  border-top: 0; }
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-weight: 700;
+    color: #0582b8;
+    /* [disabled]display: flex; */
+    align-items: center;
+    justify-content: center;
+    height: 42px;
+    flex: 0 0 42px;
+    border-bottom: 1px solid #d4d4d4;
+    border-top: 0;
+}
   a.event-team-name img {
     width: 25px;
     height: 25px;
