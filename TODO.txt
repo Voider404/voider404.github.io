@@ -1,38 +1,38 @@
 TODO list:
 
-Main Page
+Main Page (just put something in there)
 ---------------------------------------
-Schedule
+Schedule (a lot of matches)
 ---------------------------------------
 Events:
 
 6WC1:
-Qualifiers Page
-Playoff Page
+Qualifiers Page (MP links + stats)
+Playoff Page (MP links + bracket)
 
 6WC2:
-Qualifiers Page
-Group A Page
-Group B Page
-Group C Page
-Group D Page
-Group E Page
-Group F Page
-Group G Page
-Group H Page
-Playoff Page
+Qualifiers Page (MP links + stats)
+Group A Page (MP links + Rosters + Info)
+Group B Page (MP links + Rosters + Info)
+Group C Page (MP links + Rosters + Info)
+Group D Page (MP links + Rosters + Info)
+Group E Page (MP links + Rosters + Info)
+Group F Page (MP links + Rosters + Info)
+Group G Page (MP links + Rosters + Info)
+Group H Page (MP links + Rosters + Info)
+Playoff Page (MP links + Rosters + Info)
 
 6WC3:
-Qualifiers Page
-Group A Page
-Group B Page
-Group C Page
-Group D Page
-Group E Page
-Group F Page
-Group G Page
-Group H Page
-Playoff Page
+Qualifiers Page (MP links + stats)
+Group A Page (MP links + Rosters + Info)
+Group B Page (MP links + Rosters + Info)
+Group C Page (MP links + Rosters + Info)
+Group D Page (MP links + Rosters + Info)
+Group E Page (MP links + Rosters + Info)
+Group F Page (MP links + Rosters + Info)
+Group G Page (MP links + Rosters + Info)
+Group H Page (MP links + Rosters + Info) 
+Playoff Page (MP links + Rosters + Info)
 
 ---------------------------------------
 
@@ -42,7 +42,6 @@ Argentina
 Australia
 Austria
 Bangladesh
-Belarus
 Belgium
 Brazil
 Bulgaria
@@ -51,8 +50,6 @@ Chile
 China
 Colombia
 Czech Republic
-Denmark
-Finland
 Germany
 Hong Kong
 Hungary
