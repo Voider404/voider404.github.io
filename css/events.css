@@ -787,8 +787,9 @@ tr.mod-adv .sbox.mod-highlight {
   display: none; }
 
 .event-content {
-  min-width: 0;
-  flex: 0 0 794px; }
+    min-width: 0;
+    flex: 0 0 1120px;
+}
 
 .event-groups-container {
   display: flex;
