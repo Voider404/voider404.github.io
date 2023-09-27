@@ -485,15 +485,14 @@ html {
   overflow-y: scroll; }
 
 html, body {
-  font-family: 'Roboto', sans-serif;
-  font-size: 12px;
-  color: #333;
-  background-color: #c6c6c6;
-  background-image: url(/img/base/tex.png);
-  min-width: 1160px;
-  text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale; }
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    color: #333;
+    background-color: #B4B4B4;
+    min-width: 1160px;
+    text-rendering: optimizeLegibility;
+    -moz-osx-font-smoothing: grayscale;
+}
 
 html.blockscroll, body.blockscroll {
   overflow: hidden; }
