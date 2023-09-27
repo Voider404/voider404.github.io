@@ -37,18 +37,18 @@ Playoff Page (MP links + Rosters + Info)
 ---------------------------------------
 
 Teams:
-Algeria
-Argentina
-Australia
-Austria
-Bangladesh
-Belgium
+Algeria +
+Argentina +
+Australia +
+Austria +
+Bangladesh +
+Belgium +
 Bulgaria
-Canada
+Canada +
 Chile
-China
+China +
 Colombia
-Czech Republic
+Czech Republic +
 Germany
 Hong Kong
 India
@@ -59,7 +59,7 @@ Kazakhstan
 Latvia
 Malaysia
 New Zealand
-Norway
+Norway + (5:37, updated links to header and footer, no YT yet, noted as +)
 Pakistan
 Peru
 Philippines
@@ -78,6 +78,6 @@ Thailand
 Tunisia
 Turkey
 Ukraine
-United Kingdom
-United States
-Vietnam
+United Kingdom ++ (5:45, footer now includes YT)
+United States ++
+Vietnam ++
