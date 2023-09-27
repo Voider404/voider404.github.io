@@ -52,9 +52,9 @@ Czech Republic +
 Germany
 Hong Kong
 India
-Italy
+Italy ++
 Jamaica
-Japan
+Japan ++
 Kazakhstan
 Latvia
 Malaysia
@@ -63,15 +63,15 @@ Norway + (5:37, updated links to header and footer, no YT yet, noted as +)
 Pakistan
 Peru
 Philippines
-Poland
+Poland ++
 Portugal
 Romania
 Singapore
 Slovenia
 South Korea
-Spain
+Spain ++
 Sri Lanka
-Sweden
+Sweden ++
 Switzerland
 Taiwan
 Thailand
