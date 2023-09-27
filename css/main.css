@@ -18,6 +18,10 @@ time, mark, audio, video {
   font: inherit;
   vertical-align: baseline;
   text-decoration: none; }
+#wrapper p {
+    margin-bottom: 5px;
+}
+
 
 html {
   font-family: sans-serif;
