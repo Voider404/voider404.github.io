@@ -58,10 +58,10 @@ Japan ++
 Kazakhstan
 Latvia
 Malaysia
-New Zealand
+New Zealand ++
 Norway + (5:37, updated links to header and footer, no YT yet, noted as +)
 Pakistan
-Peru
+Peru ++
 Philippines
 Poland ++
 Portugal
