@@ -36,48 +36,45 @@ Playoff Page (MP links + Rosters + Info)
 
 ---------------------------------------
 
-Teams:
-Algeria +
-Argentina +
-Australia +
-Austria +
-Bangladesh +
-Belgium +
+Teams (39/79 filled, 79/79 created):
+Australia
+Austria
+Bangladesh
+Belgium 
 Bulgaria
-Canada +
+Canada
 Chile
-China +
+China
 Colombia
-Czech Republic +
-Germany
+Czech Republic
 Hong Kong
 India
-Italy ++
+Italy
 Jamaica
-Japan ++
+Japan 
 Kazakhstan
 Latvia
 Malaysia
-New Zealand ++
-Norway + (5:37, updated links to header and footer, no YT yet, noted as +)
+New Zealand 
+Norway
 Pakistan
-Peru ++
+Peru
 Philippines
-Poland ++
+Poland
 Portugal
 Romania
 Singapore
 Slovenia
 South Korea
-Spain ++
+Spain
 Sri Lanka
-Sweden ++
+Sweden
 Switzerland
 Taiwan
 Thailand
 Tunisia
 Turkey
 Ukraine
-United Kingdom ++ (5:45, footer now includes YT)
-United States ++
-Vietnam ++
+United Kingdom
+United States
+Vietnam
